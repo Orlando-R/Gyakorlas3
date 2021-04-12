@@ -10,7 +10,13 @@ namespace GitGyakorlas3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("gyakorlojuk 3");
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("gyakorlojuk 3"); 
+            }
+
+            Console.ReadLine();
+           
         }
     }
 }
