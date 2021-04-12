@@ -1,0 +1,7 @@
+C:\Users\RL\source\repos\GitKiproba\GitGyakorlas3\GitGyakorlas3\bin\Debug\GitGyakorlas3.exe.config
+C:\Users\RL\source\repos\GitKiproba\GitGyakorlas3\GitGyakorlas3\bin\Debug\GitGyakorlas3.exe
+C:\Users\RL\source\repos\GitKiproba\GitGyakorlas3\GitGyakorlas3\bin\Debug\GitGyakorlas3.pdb
+C:\Users\RL\source\repos\GitKiproba\GitGyakorlas3\GitGyakorlas3\obj\Debug\GitGyakorlas3.csprojAssemblyReference.cache
+C:\Users\RL\source\repos\GitKiproba\GitGyakorlas3\GitGyakorlas3\obj\Debug\GitGyakorlas3.csproj.CoreCompileInputs.cache
+C:\Users\RL\source\repos\GitKiproba\GitGyakorlas3\GitGyakorlas3\obj\Debug\GitGyakorlas3.exe
+C:\Users\RL\source\repos\GitKiproba\GitGyakorlas3\GitGyakorlas3\obj\Debug\GitGyakorlas3.pdb
