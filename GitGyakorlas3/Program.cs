@@ -15,6 +15,8 @@ namespace GitGyakorlas3
                 Console.WriteLine("gyakorlojuk 3"); 
             }
 
+            Console.WriteLine("Gyakorlás vége");
+
             Console.ReadLine();
            
         }
